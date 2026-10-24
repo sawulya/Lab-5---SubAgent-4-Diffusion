@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Generative AI based on large language models",
+  "intended_application": "Customer-facing assistant for routine deposit account questions, with escalation to human staff for disputes and sensitive cases",
+  "industry_sector": "U.S. retail banking / financial services",
+  "business_need": "Improve customer response times and operational capacity without reducing customer redress",
+  "users_stakeholders": "Retail customers, contact center personnel, bank compliance/risk leaders, IT/security, consumer advocates",
+  "capabilities_constraints": "Assume strong AI engineering team, monitored deployment pipeline and frequent test releases; must still satisfy bank-partner customer support controls",
+  "risk_consequence_context": "Incorrect account guidance, privacy leaks, unfair treatment, unresolved complaints and loss of trust",
+  "management_question": "How should evidence of diffusion inform pilot timing and peer positioning, not an unconditional adoption decision?",
+  "time_horizon": "Next 6 months (October 2026\u2013April 2027)",
+  "additional_context": "Illustrative hypothetical entities; not claims about a named real bank. Evidence sources were reviewed in October 2026.",
+  "organization": "Hypothetical U.S. digital-first fintech offering deposit-account services through a banking partner",
+  "adoption_posture": "Aggressive/early adopter; rapid experimentation, but human rights escalation remains required"
+}
